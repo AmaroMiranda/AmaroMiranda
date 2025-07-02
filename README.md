@@ -1,7 +1,7 @@
 # Desenvolvedor Front-end
 
 
-Apaixonado por construir interfaces de usuário interativas e responsivas. Busco sempre entregar a melhor experiência para o usuário.
+Focado em construir interfaces de usuário interativas e responsivas. Busco sempre entregar a melhor experiência para o usuário.
 
 ### 🛠️ Tecnologias e Habilidades
 
