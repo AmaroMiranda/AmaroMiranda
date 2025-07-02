@@ -14,13 +14,6 @@ Apaixonado por construir interfaces de usuário interativas e responsivas. Busco
 <code><img src="https://img.shields.io/badge/Frontend-black?style=for-the-badge&logoColor=white" /></code>
 
 
-[Você pode adicionar mais projetos aqui seguindo o mesmo formato]
 
-### 🔗 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](seu-link-para-portfolio-ou-website)
----
 
-Feito com ❤️ por [Seu Nome]
