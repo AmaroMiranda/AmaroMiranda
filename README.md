@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o **Amaro Miranda**
 
-![GitHub Hits](https://hits.sh/github.com/AmaroMiranda.svg)
+![Visitas](https://hits.sh/github.com/AmaroMiranda.svg)
 
 ---
 
