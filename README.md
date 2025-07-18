@@ -1,42 +1,57 @@
-# 👋 Olá, eu sou o **Amaro Miranda**
+# Amaro Miranda | Desenvolvedor Front-end
 
-![Visitas](https://hits.sh/github.com/AmaroMiranda.svg)
-
----
-
-## 💻 Sobre mim
-
-Desenvolvedor Front-end focado em criar interfaces modernas, interativas e responsivas.  
-Apaixonado por tecnologia, inovação e bons desafios!
+<p align="left">
+  <a href="https://github.com/AmaroMiranda">
+    <img alt="Visitas" src="https://hits.sh/github.com/AmaroMiranda.svg?style=flat-square&color=555&label=VISITAS"/>
+  </a>
+</p>
 
 ---
 
-## 🛠 Tecnologias & Skills
+### 👨‍💻 Sobre Mim
 
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+Desenvolvedor Front-end especializado em construir interfaces modernas, interativas e responsivas. Minha paixão é transformar ideias e desafios complexos em experiências digitais intuitivas e eficientes para o usuário.
+
+- 🔭 Atualmente explorando o ecossistema **React** e **Flutter** para desenvolvimento de aplicações web e mobile.
+- 🌱 Buscando constantemente aprender novas tecnologias e aprimorar minhas habilidades.
+- 💡 Focado em código limpo, performance e usabilidade.
 
 ---
 
-## 🚀 Projetos em destaque
+### 🛠️ Tecnologias e Ferramentas
 
-### ⚽ [Cartola Libertadores](https://cartola-libertadors.onrender.com/)  
-_Competição de cartola fc no formato da libertadores!_
-
-[![Acessar Projeto](https://img.shields.io/badge/Visitar-Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cartola-libertadors.onrender.com/)
-
----
-
-## 📫 Contato
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmaroMiranda)  
-[![Instagram](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmaroMiranda)  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,bootstrap,git,figma" />
+  </a>
+</p>
 
 ---
 
-![Footer](https://img.shields.io/badge/Thank%20you%20for%20visiting-❤️-red?style=for-the-badge)
+### 🚀 Projeto em Destaque
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <h3>⚽ Cartola Libertadores</h3>
+      <p>Uma aplicação web que simula uma competição do fantasy game Cartola FC no formato da Copa Libertadores. Desenvolvido para testar habilidades com integrações de API e manipulação de dados em tempo real.</p>
+      <p><strong>Tecnologias:</strong> JavaScript, HTML5, CSS3, e consumo de API externa.</p>
+      <a href="https://cartola-libertadors.onrender.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Visitar_Projeto-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar Projeto">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/AmaroMiranda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/amaro_miranda1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
