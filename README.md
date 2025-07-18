@@ -66,7 +66,7 @@ Uma aplicação web que simula uma competição do fantasy game Cartola FC no fo
 
 ## 💼 Outros Projetos
 
-- 🎲 [Pokedéx]([https://github.com/AmaroMiranda/gerador-times](https://github.com/AmaroMiranda/pokedex-app-flutter))
+- 🎲 [Pokedéx](https://github.com/AmaroMiranda/pokedex-app-flutter)
 
 ---
 
