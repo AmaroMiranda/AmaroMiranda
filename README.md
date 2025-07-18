@@ -26,7 +26,7 @@ Desenvolvedor Front-end especializado em construir interfaces modernas, interati
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,bootstrap,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,bootstrap,git,dart,primefaces" />
   </a>
 </p>
 
