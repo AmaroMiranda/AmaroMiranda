@@ -1,6 +1,6 @@
 # Desenvolvedor Front-end
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=AmaroMiranda.AmaroMiranda)
+![GitHub hits](https://hits.sh/github.com/AmaroMiranda.svg)
 
 Focado em construir interfaces de usuário interativas e responsivas. Busco sempre entregar a melhor experiência para o usuário.
 
