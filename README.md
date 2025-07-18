@@ -4,15 +4,16 @@
       <h1>Amaro Miranda</h1>
       <p><strong>Desenvolvedor Front-end</strong> | Construindo experiências digitais que encantam e resolvem problemas.</p>
       
-      ### 👨‍💻 Sobre Mim
-      Desenvolvedor especializado em transformar ideias e desafios complexos em interfaces modernas, interativas e responsivas.
+      <h3>👨‍💻 Sobre Mim</h3>
+      <p>Desenvolvedor especializado em transformar ideias e desafios complexos em interfaces modernas, interativas e responsivas.</p>
       
-      - 🔭 Atualmente explorando o ecossistema **React** e **Flutter**.
-      - 🌱 Buscando constantemente aprimorar minhas habilidades em código limpo, performance e usabilidade.
-      - 💡 Apaixonado por tecnologia e inovação.
-      <br/>
+      <ul>
+        <li>🔭 Atualmente explorando o ecossistema <strong>React</strong> e <strong>Flutter</strong>.</li>
+        <li>🌱 Buscando constantemente aprimorar minhas habilidades em código limpo, performance e usabilidade.</li>
+        <li>💡 Apaixonado por tecnologia e inovação.</li>
+      </ul>
       
-      ### 📫 Onde me encontrar
+      <h3>📫 Onde me encontrar</h3>
       <p align="left">
         <a href="https://github.com/AmaroMiranda" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -35,6 +36,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
