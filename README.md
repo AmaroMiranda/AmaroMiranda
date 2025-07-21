@@ -9,7 +9,6 @@
 🎯 Desenvolvedor Front-end apaixonado por criar interfaces intuitivas e modernas.  
 🧠 Explorando o ecossistema **React**, **Flutter** e **JSF**.  
 🧼 Focado em **código limpo**, **performance** e **experiência do usuário**.  
-🚀 Acredito que tecnologia bem usada muda vidas.
 
 ---
 
