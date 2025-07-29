@@ -53,6 +53,7 @@ Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
 
 ---
 
+
 ## 🐍 Snake de Contribuições
 
 <p align="center">
@@ -61,12 +62,6 @@ Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/github-contribution-grid-snake.svg">
     <img alt="Snake animation" src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
   </picture>
-</p>
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmaroMiranda&theme=react-dark" />
