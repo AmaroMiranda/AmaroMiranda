@@ -50,7 +50,6 @@ Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
 
 ---
 
-## 🐍 Snake dos meus commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/github-contribution-grid-snake.gif" alt="Snake animation" />
