@@ -2,8 +2,8 @@ name: 🐍 Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12 horas
-  workflow_dispatch:       # Permite execução manual no GitHub Actions
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: 📥 Checkout do repositório
         uses: actions/checkout@v3
+
+      - name: 🛠️ Criar pasta dist
+        run: mkdir -p dist
 
       - name: 🐍 Gerar animação Snake
         uses: Platane/snk@v3
