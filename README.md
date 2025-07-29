@@ -50,12 +50,15 @@ Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
+## 🐍 Snake de Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
+  </picture>
+</p>
 
 
 
