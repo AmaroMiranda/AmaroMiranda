@@ -53,7 +53,7 @@ Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
 ## 🐍 Snake dos meus commits
 
 <p align="center">
-  <img src="https://github.com/AmaroMiranda/AmaroMiranda/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ## 💼 Outros Projetos
