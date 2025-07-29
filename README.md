@@ -57,8 +57,7 @@ Uma aplicação web que simula uma competição do fantasy game Cartola FC no fo
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaroMiranda&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas por Amaro Miranda" />
 
-<img src="https://hits.sh/github.com/AmaroMiranda.svg?style=flat-square&color=555&label=VISITAS" alt="Contador de visitas" />
-
+![visits](https://visit-counter.vercel.app/counter.png?page=&s=44&c=f34b7d&bg=00000000&no=2&ff=digi&tb=Visitas+&ta=)
 </div>
 
 ---
