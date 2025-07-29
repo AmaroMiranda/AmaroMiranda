@@ -50,6 +50,8 @@ Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
 
 ---
 
+![snake gif](https://github.com/AmaroMiranda/AmaroMiranda/blob/output/github-contribution-grid-snake.svg)
+
 ## 💼 Outros Projetos
 
 - 🎲 [Pokedéx Flutter App](https://github.com/AmaroMiranda/pokedex-app-flutter)  
