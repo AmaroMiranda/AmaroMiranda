@@ -50,9 +50,7 @@ Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaroMiranda&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas"   />
 </p>
 
-<p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAmaroMiranda&s=44&c=f34b7d&bg=00000000&no=2&ff=digii&tb=Visitas+&ta=" alt="Visitas ao Perfil" />
-</p>
+
 
 ---
 
