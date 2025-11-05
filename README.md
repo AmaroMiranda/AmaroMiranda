@@ -81,15 +81,16 @@ Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
 
 <p align="center">
   <a href="https://www.credly.com/badges/71b44f80-0859-44aa-91f0-20b5dfb703f8/public_url">
-    <img src="https://images.credly.com/size/120x120/images/bd2bba36-66ad-4de2-9d91-e29433e51a16/blob" alt="Badge 1" width="120" height="120"/>
+    <img src="https://images.credly.com/size/120x120/images/bd2bba36-66ad-4de2-9d91-e29433e51a16/blob" alt="Badge 1" width="120" height="120" style="margin-right: 15px;"/>
   </a>
   <a href="https://www.credly.com/badges/67bae857-bc04-4ed6-a744-72537c7f68bf/public_url">
-    <img src="https://images.credly.com/size/120x120/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob" alt="Badge 2" width="120" height="120"/>
+    <img src="https://images.credly.com/size/120x120/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob" alt="Badge 2" width="120" height="120" style="margin-right: 15px;"/>
   </a>
   <a href="https://www.credly.com/badges/eeaf2366-2a97-44ac-a220-8d706c339dfe/public_url">
     <img src="https://images.credly.com/images/0a588ba1-5414-46f4-8fb6-7f646fe363e8/blob" alt="Badge 3" width="120" height="120"/>
   </a>
 </p>
+
 
 
 ---
