@@ -1,56 +1,62 @@
-<!-- README.md estilizado para Amaro Miranda -->
+<!-- README estilizado e adaptado para modo Light e Dark -->
 
-<p >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1,+eu+sou+Amaro+Miranda!;Desenvolvedor+Front-end;React+%7C+Flutter+%7C+JSF+%7C+PrimeFaces" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Amaro+Miranda!;Desenvolvedor+Front-end;React+%7C+Flutter+%7C+JSF+%7C+PrimeFaces" alt="Typing SVG" />
 </p>
 
 ---
 
-<div >
-  <h2>👨‍💻 Sobre Mim</h2>
-  <p>Desenvolvedor Front-end apaixonado por criar interfaces modernas, limpas e funcionais.<br>
-  Focado em <strong>React</strong>, <strong>Flutter</strong>, <strong>JSF</strong> e <strong>PrimeFaces</strong>.<br>
-  Entusiasta de boas práticas, performance e experiência do usuário.</p>
-</div>
+## 👨‍💻 Sobre Mim
+
+Sou um **Desenvolvedor Front-end** apaixonado por transformar ideias em interfaces modernas, responsivas e intuitivas.  
+Tenho foco em **React**, **Flutter**, **JSF** e **PrimeFaces**, com experiência em construção de aplicações escaláveis e centradas no usuário.  
+Acredito que **código limpo**, **performance** e **UX** andam lado a lado.
+
+📍 **Localização:** Brasil  
+💬 **Aberto a colaborações e freelas**
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React" height="50"/></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="50"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="50"/></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50"/></td>
-    <td align="center"><img src="https://archive.org/download/github.com-primefaces-primeng_-_2021-09-01_10-34-24/cover.jpg" alt="PrimeFaces" height="50"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,bootstrap,git" height="50" alt="Tecnologias" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50" alt="Java" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.primefaces.org/wp-content/uploads/2016/10/prime_logo.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.primefaces.org/wp-content/uploads/2016/10/prime_logo.png">
+    <img src="https://www.primefaces.org/wp-content/uploads/2016/10/prime_logo.png" height="45" alt="PrimeFaces" />
+  </picture>
+</p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### ⚽ Cartola Libertadores
-Aplicação web que simula uma competição do fantasy game Cartola FC no formato da Copa Libertadores.<br>
-Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
+### ⚽ **Cartola Libertadores**
+Aplicação web que simula uma competição do fantasy game **Cartola FC** no formato da **Copa Libertadores**.  
+Desenvolvida para aprimorar habilidades com **APIs REST**, **React Hooks** e integração com **dados em tempo real**.
 
-- <strong>Stack:</strong> React, Express, MongoDB Atlas, APIs externas
-- [🌐 Visitar Projeto]([(https://libertadores1.cartolaam.com.br/))
+- **Stack:** React, Express, MongoDB Atlas, APIs externas  
+- 🔗 [**Acesse o Projeto**](https://libertadores1.cartolaam.com.br)
 
 ---
 
 ## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmaroMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaroMiranda&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas"   />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AmaroMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AmaroMiranda&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=AmaroMiranda&show_icons=true" height="160" alt="GitHub Stats" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaroMiranda&layout=compact&langs_count=7&theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaroMiranda&layout=compact&langs_count=7&theme=default">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaroMiranda&layout=compact" height="160" alt="Linguagens Mais Usadas" />
+  </picture>
 </p>
-
-
 
 ---
 
@@ -58,26 +64,30 @@ Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/pacman-contribution-graph-dark.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmaroMiranda&theme=react" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmaroMiranda&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmaroMiranda&theme=minimal">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmaroMiranda&theme=react" alt="GitHub Activity Graph" />
+  </picture>
 </p>
 
 ---
 
 ## 💼 Outros Projetos
 
-- 🎲 [Pokedéx Flutter App](https://github.com/AmaroMiranda/pokedex-app-flutter)<br>
-  Aplicativo mobile em Flutter para consulta completa dos pokémons.
+- 🎲 [**Pokedéx Flutter App**](https://github.com/AmaroMiranda/pokedex-app-flutter)  
+  Aplicativo mobile desenvolvido em **Flutter** para explorar a lista completa de Pokémons.
 
 ---
 
-## 🏅 Meus Badges Credly
+## 🏅 Meus Badges (Credly)
 
 <p align="center">
   <a href="https://www.credly.com/badges/71b44f80-0859-44aa-91f0-20b5dfb703f8/public_url">
@@ -91,8 +101,15 @@ Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
   </a>
 </p>
 
-
-
 ---
 
+## 📫 Contato
 
+<p align="center">
+  <a href="mailto:amaro.miranda.37@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/amaro-miranda-1112b52b4/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
+  ✨ *"Transformando código em experiências incríveis."* ✨
+</p>
