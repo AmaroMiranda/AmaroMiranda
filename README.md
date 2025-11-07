@@ -103,13 +103,4 @@ Desenvolvida para aprimorar habilidades com **APIs REST**, **React Hooks** e int
 
 ---
 
-## 📫 Contato
 
-<p align="center">
-  <a href="mailto:amaro.miranda.37@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/amaro-miranda-1112b52b4/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
-</p>
-
-<p align="center">
-  ✨ *"Transformando código em experiências incríveis."* ✨
-</p>
