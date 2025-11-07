@@ -65,7 +65,7 @@ Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmaroMiranda&theme=react-light" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmaroMiranda&theme=react" />
 </p>
 
 ---
