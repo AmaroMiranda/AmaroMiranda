@@ -39,7 +39,7 @@ Aplicação web que simula uma competição do fantasy game Cartola FC no format
 Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
 
 - <strong>Stack:</strong> React, Express, MongoDB Atlas, APIs externas
-- [🌐 Visitar Projeto](https://cartola-libertadors.onrender.com/)
+- [🌐 Visitar Projeto]([(https://libertadores1.cartolaam.com.br/))
 
 ---
 
@@ -95,13 +95,4 @@ Desenvolvida para aprimorar habilidades com APIs e dados em tempo real.
 
 ---
 
-## 📫 Contato
 
-<p align="center">
-  <a href="https://github.com/AmaroMiranda" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/amaro_miranda1/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
