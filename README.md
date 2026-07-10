@@ -1,6 +1,6 @@
 <!-- ======================== HERO ======================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/main/assets/hero.svg" alt="Amaro Miranda — Front-end & Mobile Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/main/assets/hero.svg?v=2" alt="Amaro Miranda — Front-end & Mobile Developer" width="100%" />
 </p>
 
 <p align="center">
