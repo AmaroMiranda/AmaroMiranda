@@ -112,12 +112,31 @@ final amaro = Dev(
     </td>
     <td width="50%" valign="top" align="center">
       <br/>
+      <h3>🌙 LunarStitch</h3>
+      <p><i>Mosaicos da Lua e panoramas no aparelho</i></p>
+      <p align="left">
+        Junta fotos sobrepostas — regiões ampliadas do disco lunar ou uma
+        paisagem — num <b>mosaico grande e nítido</b> estilo Microsoft ICE:
+        engine C++/OpenCV via FFI, costura por graph-cut e saída até 16 bits.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+        <img src="https://img.shields.io/badge/C%2B%2B%2FOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="C++/OpenCV"/>
+      </p>
+      <p>
+        <a href="https://github.com/AmaroMiranda/lunar-stitch"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
+        <a href="https://github.com/AmaroMiranda/lunar-stitch/releases/latest"><img src="https://img.shields.io/badge/Baixar%20APK-2EA44F?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK"/></a>
+      </p>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
       <h3>🎲 Pokédex Flutter</h3>
       <p><i>Gotta fetch 'em all</i></p>
-      <p align="left">
-        App mobile para explorar a lista completa de Pokémons, com fichas
-        detalhadas e navegação fluida.
-      </p>
+      <p>App mobile para explorar a lista completa de Pokémons, com fichas detalhadas e navegação fluida.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
