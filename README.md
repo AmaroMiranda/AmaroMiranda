@@ -1,6 +1,6 @@
 <!-- ======================== HERO ======================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/main/assets/hero.svg" alt="Amaro Miranda — céu noturno animado com telescópio apontando para a Lua" width="100%" />
+  <img src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/main/assets/hero.svg" alt="Amaro Miranda — Front-end & Mobile Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -27,19 +27,19 @@
 
 ```dart
 final amaro = Dev(
-  papel:    'Front-end Developer',
+  papel:    'Front-end & Mobile Developer',
   base:     '📍 Brasil',
   web:      ['React', 'JSF/PrimeFaces'],
   mobile:   ['Flutter', 'Dart'],
   hardcore: ['C++', 'OpenCV'],   // quando o app precisa de músculo
-  hobby:    '🔭 Astrofotografia — e apps pra ela',
-  lema:     'Código limpo, performance e UX andam lado a lado',
+  foco:     'Arquitetura limpa, performance e UX',
+  hobby:    '🔭 Astrofotografia',
 );
 ```
 
 - 💡 Transformo ideias em interfaces **modernas, responsivas e intuitivas**
 - 📱 Do web ao mobile — e quando precisa, desço até o **C++/OpenCV**
-- 🔭 Uno programação e astronomia: construo **apps que apontam pro céu**
+- 🧩 **Arquitetura em camadas**, componentes reutilizáveis e código testável
 - 🤝 Aberto a **colaborações e freelas**
 
 <br/>
@@ -51,12 +51,31 @@ final amaro = Dev(
   <tr>
     <td width="50%" valign="top" align="center">
       <br/>
-      <h3>🔭 CollimaScope</h3>
-      <p><i>Colimação de telescópios com a câmera do celular</i></p>
+      <h3>⚽ Cartola Libertadores</h3>
+      <p><i>Produto web ao vivo, com usuários reais</i></p>
       <p align="left">
-        Assistente visual que alinha os espelhos de <b>Newtonianos e Dobsonianos</b>:
-        guia em 7 etapas, círculos de referência perfeitos, modo vermelho noturno
-        e histórico de sessões com antes/depois.
+        Plataforma completa de fantasy game do <b>Cartola FC</b> no formato da
+        Libertadores: fase de grupos, mata-mata e dados em tempo real —
+        do front React à API e banco em produção.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </p>
+      <p>
+        <a href="https://libertadores1.cartolaam.com.br"><img src="https://img.shields.io/badge/Acessar%20ao%20vivo-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar ao vivo"/></a>
+      </p>
+      <br/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <br/>
+      <h3>🔭 CollimaScope</h3>
+      <p><i>App Android open source publicado</i></p>
+      <p align="left">
+        Assistente visual de colimação de telescópios com a câmera do celular:
+        <b>fluxo guiado em 7 etapas</b>, geometria de precisão, modo noturno e
+        histórico de sessões — arquitetura em camadas com Riverpod.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -69,14 +88,16 @@ final amaro = Dev(
       </p>
       <br/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="center">
       <br/>
       <h3>🌙 LunarStack</h3>
-      <p><i>Astrofotografia da Lua, 100% no aparelho</i></p>
+      <p><i>Processamento de imagem nativo no Android</i></p>
       <p align="left">
-        Grava um vídeo tremido da Lua e o app <b>estabiliza e empilha os melhores
-        frames</b> para gerar uma foto nítida — todo o processamento roda no
-        próprio Android, sem nuvem.
+        Estabiliza e <b>empilha os melhores frames</b> de um vídeo para gerar uma
+        foto nítida da Lua — pipeline C++/OpenCV via FFI, todo o processamento
+        no aparelho, sem nuvem.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -86,26 +107,6 @@ final amaro = Dev(
       <p>
         <a href="https://github.com/AmaroMiranda/lunar-stack"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
         <a href="https://github.com/AmaroMiranda/lunar-stack/releases/latest"><img src="https://img.shields.io/badge/Baixar%20APK-2EA44F?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK"/></a>
-      </p>
-      <br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <h3>⚽ Cartola Libertadores</h3>
-      <p><i>Fantasy game no formato da Libertadores</i></p>
-      <p align="left">
-        Competição do <b>Cartola FC</b> com fase de grupos, mata-mata e dados em
-        tempo real — a emoção da Libertadores dentro do fantasy game.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      </p>
-      <p>
-        <a href="https://libertadores1.cartolaam.com.br"><img src="https://img.shields.io/badge/Acessar%20ao%20vivo-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar ao vivo"/></a>
       </p>
       <br/>
     </td>
@@ -211,7 +212,7 @@ final amaro = Dev(
 
 <!-- ======================== FOOTER ======================== -->
 <p align="center">
-  <i>“Aponte para a Lua. Mesmo que erre, você programou o caminho até lá.”</i> 🌙
+  <i>“Interface boa se sente. Código bom se mantém.”</i>
 </p>
 
 <p align="center">
