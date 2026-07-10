@@ -23,6 +23,7 @@
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| 🔭 [**CollimaScope**](https://github.com/AmaroMiranda/collima_scope) | Assistente visual de colimação por câmera — Alinha os espelhos de Newtonianos/Dobsonianos usando seu smartphone. Guia em 7 etapas, viewport sem distorção, histórico de sessões, modo vermelho | Flutter · Dart · Material Design 3 |
 | 🌙 [**LunarStack**](https://github.com/AmaroMiranda/lunar-stack) | Astrofotografia da Lua no Android: empilha os melhores frames de um vídeo tremido e gera uma foto nítida, 100% no aparelho | Flutter · Kotlin · C++/OpenCV |
 | ⚽ [**Cartola Libertadores**](https://libertadores1.cartolaam.com.br) | Competição de fantasy game do Cartola FC no formato da Copa Libertadores, com dados em tempo real | React · Express · MongoDB |
 | 🎲 [**Pokédex Flutter**](https://github.com/AmaroMiranda/pokedex-app-flutter) | App mobile para explorar a lista completa de Pokémons | Flutter |
