@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="100%" role="img" aria-label="Amaro Miranda — Front-end, Mobile e Astrofotografia">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050B14"/>
+      <stop offset="55%" stop-color="#0B1D2E"/>
+      <stop offset="100%" stop-color="#12354F"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4A9EFF"/>
+      <stop offset="50%" stop-color="#7DD3FC"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7DD3FC" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#E0F2FE" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#DBEAFE" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#DBEAFE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .star { fill: #E2E8F0; animation: twinkle 3s ease-in-out infinite; }
+      .s2 { animation-delay: .7s; }
+      .s3 { animation-delay: 1.4s; }
+      .s4 { animation-delay: 2.1s; }
+      .s5 { animation-delay: 2.6s; animation-duration: 4s; }
+      @keyframes twinkle {
+        0%, 100% { opacity: .25; }
+        50% { opacity: 1; }
+      }
+      .shoot { animation: shoot 7s linear infinite; opacity: 0; }
+      .shoot2 { animation-delay: 3.5s; }
+      @keyframes shoot {
+        0%   { transform: translate(0, 0); opacity: 0; }
+        3%   { opacity: 1; }
+        12%  { transform: translate(340px, 110px); opacity: 0; }
+        100% { transform: translate(340px, 110px); opacity: 0; }
+      }
+      .moonPulse { animation: pulse 6s ease-in-out infinite; transform-origin: 745px 78px; }
+      @keyframes pulse {
+        0%, 100% { opacity: .5; }
+        50% { opacity: 1; }
+      }
+      .title { font: 800 46px 'Segoe UI', Arial, sans-serif; letter-spacing: 6px; }
+      .subtitle { font: 500 16px 'Segoe UI', Arial, sans-serif; letter-spacing: 4px; fill: #94A3B8; }
+      .tag { font: 400 13px 'Segoe UI', Arial, sans-serif; letter-spacing: 1px; fill: #64748B; }
+    </style>
+  </defs>
+
+  <!-- Céu -->
+  <rect width="900" height="300" fill="url(#sky)"/>
+
+  <!-- Estrelas -->
+  <g>
+    <circle class="star"    cx="60"  cy="40"  r="1.6"/>
+    <circle class="star s3" cx="130" cy="90"  r="1.1"/>
+    <circle class="star s2" cx="210" cy="35"  r="1.4"/>
+    <circle class="star s4" cx="275" cy="70"  r="1.0"/>
+    <circle class="star s5" cx="330" cy="30"  r="1.8"/>
+    <circle class="star s2" cx="395" cy="55"  r="1.2"/>
+    <circle class="star s3" cx="460" cy="25"  r="1.5"/>
+    <circle class="star"    cx="520" cy="65"  r="1.0"/>
+    <circle class="star s4" cx="585" cy="40"  r="1.7"/>
+    <circle class="star s5" cx="645" cy="90"  r="1.1"/>
+    <circle class="star s2" cx="700" cy="30"  r="1.3"/>
+    <circle class="star s3" cx="840" cy="60"  r="1.5"/>
+    <circle class="star s4" cx="865" cy="140" r="1.2"/>
+    <circle class="star"    cx="90"  cy="150" r="1.3"/>
+    <circle class="star s5" cx="35"  cy="220" r="1.4"/>
+    <circle class="star s2" cx="250" cy="130" r="1.0"/>
+    <circle class="star s3" cx="620" cy="150" r="1.2"/>
+    <circle class="star s4" cx="810" cy="230" r="1.3"/>
+    <circle class="star s2" cx="560" cy="255" r="1.1"/>
+    <circle class="star s5" cx="380" cy="240" r="1.0"/>
+  </g>
+
+  <!-- Estrelas cadentes -->
+  <g class="shoot">
+    <line x1="80" y1="20" x2="35" y2="5" stroke="url(#trail)" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="80" cy="20" r="2" fill="#E0F2FE"/>
+  </g>
+  <g class="shoot shoot2">
+    <line x1="480" y1="10" x2="435" y2="-5" stroke="url(#trail)" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="480" cy="10" r="2" fill="#E0F2FE"/>
+  </g>
+
+  <!-- Lua -->
+  <circle class="moonPulse" cx="745" cy="78" r="85" fill="url(#moonGlow)"/>
+  <g filter="url(#glow)">
+    <circle cx="745" cy="78" r="36" fill="#E2E8F0"/>
+    <circle cx="732" cy="66" r="7"  fill="#C4CFDA"/>
+    <circle cx="756" cy="88" r="9"  fill="#CBD5E1"/>
+    <circle cx="752" cy="60" r="4"  fill="#C4CFDA"/>
+    <circle cx="730" cy="92" r="5"  fill="#C4CFDA"/>
+  </g>
+
+  <!-- Telescópio apontando para a Lua -->
+  <g stroke="#334E68" stroke-width="6" stroke-linecap="round">
+    <line x1="150" y1="200" x2="112" y2="268"/>
+    <line x1="150" y1="200" x2="188" y2="268"/>
+    <line x1="150" y1="200" x2="150" y2="270"/>
+  </g>
+  <g transform="rotate(-32 150 192)">
+    <rect x="102" y="180" width="120" height="24" rx="8" fill="#3E5C76"/>
+    <rect x="206" y="177" width="22" height="30" rx="6" fill="#4A9EFF"/>
+    <rect x="96" y="184" width="14" height="16" rx="4" fill="#27405C"/>
+  </g>
+  <circle cx="150" cy="198" r="7" fill="#4A9EFF"/>
+  <!-- Linha de mira até a Lua -->
+  <line x1="238" y1="130" x2="700" y2="88" stroke="#4A9EFF" stroke-width="1" stroke-dasharray="2 8" opacity="0.35"/>
+
+  <!-- Nome -->
+  <text x="450" y="148" text-anchor="middle" class="title" fill="url(#titleGrad)" filter="url(#glow)">AMARO MIRANDA</text>
+  <text x="450" y="182" text-anchor="middle" class="subtitle">FRONT-END · MOBILE · ASTROFOTOGRAFIA</text>
+  <text x="450" y="215" text-anchor="middle" class="tag">construindo apps que apontam pro céu 🔭</text>
+
+  <!-- Horizonte -->
+  <rect y="292" width="900" height="8" fill="#050B14"/>
+</svg>

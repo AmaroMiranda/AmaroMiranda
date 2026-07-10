@@ -1,6 +1,6 @@
-<!-- ======================== HEADER ======================== -->
+<!-- ======================== HERO ======================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1FA2FF,35:12D8FA,70:7F5AF0,100:FF6EC4&text=Amaro%20Miranda&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20%C2%B7%20Mobile%20%C2%B7%20Astrofotografia&descSize=18&descAlignY=55" alt="Amaro Miranda" />
+  <img src="https://raw.githubusercontent.com/AmaroMiranda/AmaroMiranda/main/assets/hero.svg" alt="Amaro Miranda — céu noturno animado com telescópio apontando para a Lua" width="100%" />
 </p>
 
 <p align="center">
@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AmaroMiranda?tab=repositories"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7F5AF0?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/></a>&nbsp;
-  <a href="mailto:amaro.miranda2025@outlook.com"><img src="https://img.shields.io/badge/E--mail-FF6EC4?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"/></a>&nbsp;
-  <a href="https://libertadores1.cartolaam.com.br"><img src="https://img.shields.io/badge/Projeto%20ao%20vivo-12D8FA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Projeto ao vivo"/></a>
+  <a href="https://github.com/AmaroMiranda?tab=repositories"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/></a>&nbsp;
+  <a href="mailto:amaro.miranda2025@outlook.com"><img src="https://img.shields.io/badge/E--mail-0E7490?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"/></a>&nbsp;
+  <a href="https://libertadores1.cartolaam.com.br"><img src="https://img.shields.io/badge/Projeto%20ao%20vivo-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Projeto ao vivo"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmaroMiranda&style=flat-square&color=7F5AF0&label=Visitas+ao+perfil" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=AmaroMiranda&style=flat-square&color=1F6FEB&label=Visitas+ao+perfil" alt="Contador de visitas" />
 </p>
 
 <br/>
@@ -61,7 +61,7 @@ final amaro = Dev(
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-        <img src="https://img.shields.io/badge/Material%203-7F5AF0?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3"/>
+        <img src="https://img.shields.io/badge/Material%203-1F6FEB?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3"/>
       </p>
       <p>
         <a href="https://github.com/AmaroMiranda/collima_scope"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
@@ -105,7 +105,7 @@ final amaro = Dev(
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
       </p>
       <p>
-        <a href="https://libertadores1.cartolaam.com.br"><img src="https://img.shields.io/badge/Acessar%20ao%20vivo-12D8FA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar ao vivo"/></a>
+        <a href="https://libertadores1.cartolaam.com.br"><img src="https://img.shields.io/badge/Acessar%20ao%20vivo-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar ao vivo"/></a>
       </p>
       <br/>
     </td>
@@ -172,8 +172,8 @@ final amaro = Dev(
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AmaroMiranda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=79C0FF&icon_color=FF6EC4">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmaroMiranda&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=7F5AF0" height="165" alt="Estatísticas do GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AmaroMiranda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=79C0FF&icon_color=22D3EE">
+    <img src="https://github-readme-stats.vercel.app/api?username=AmaroMiranda&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=1F6FEB" height="165" alt="Estatísticas do GitHub" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaroMiranda&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=00000000&title_color=79C0FF">
@@ -183,8 +183,8 @@ final amaro = Dev(
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AmaroMiranda&theme=github-dark-blue&hide_border=true&locale=pt_BR&background=00000000&ring=7F5AF0&fire=FF6EC4">
-    <img src="https://streak-stats.demolab.com?user=AmaroMiranda&hide_border=true&locale=pt_BR&background=00000000&ring=7F5AF0&fire=FF6EC4" height="165" alt="Sequência de contribuições" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AmaroMiranda&theme=github-dark-blue&hide_border=true&locale=pt_BR&background=00000000&ring=1F6FEB&fire=22D3EE">
+    <img src="https://streak-stats.demolab.com?user=AmaroMiranda&hide_border=true&locale=pt_BR&background=00000000&ring=1F6FEB&fire=22D3EE" height="165" alt="Sequência de contribuições" />
   </picture>
 </p>
 
@@ -215,5 +215,5 @@ final amaro = Dev(
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1FA2FF,35:12D8FA,70:7F5AF0,100:FF6EC4&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050B14,45:12354F,100:1F6FEB&section=footer" alt="Footer" />
 </p>
