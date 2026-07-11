@@ -47,107 +47,116 @@ final amaro = Dev(
 <!-- ======================== PROJETOS ======================== -->
 ## 🚀 Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <h3>⚽ Cartola Libertadores</h3>
-      <p><i>Produto web ao vivo, com usuários reais</i></p>
-      <p align="left">
-        Plataforma completa de fantasy game do <b>Cartola FC</b> no formato da
-        Libertadores: fase de grupos, mata-mata e dados em tempo real —
-        do front React à API e banco em produção.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      </p>
-      <p>
-        <a href="https://libertadores1.cartolaam.com.br"><img src="https://img.shields.io/badge/Acessar%20ao%20vivo-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar ao vivo"/></a>
-      </p>
-      <br/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <h3>🔭 CollimaScope</h3>
-      <p><i>App Android open source publicado</i></p>
-      <p align="left">
-        Assistente visual de colimação de telescópios com a câmera do celular:
-        <b>fluxo guiado em 7 etapas</b>, geometria de precisão, modo noturno e
-        histórico de sessões — arquitetura em camadas com Riverpod.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-        <img src="https://img.shields.io/badge/Material%203-1F6FEB?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3"/>
-      </p>
-      <p>
-        <a href="https://github.com/AmaroMiranda/collima_scope"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
-        <a href="https://github.com/AmaroMiranda/collima_scope/releases/latest"><img src="https://img.shields.io/badge/Baixar%20APK-2EA44F?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK"/></a>
-      </p>
-      <br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <h3>🌙 LunarStack</h3>
-      <p><i>Processamento de imagem nativo no Android</i></p>
-      <p align="left">
-        Estabiliza e <b>empilha os melhores frames</b> de um vídeo para gerar uma
-        foto nítida da Lua — pipeline C++/OpenCV via FFI, todo o processamento
-        no aparelho, sem nuvem.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-        <img src="https://img.shields.io/badge/C%2B%2B%2FOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="C++/OpenCV"/>
-      </p>
-      <p>
-        <a href="https://github.com/AmaroMiranda/lunar-stack"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
-        <a href="https://github.com/AmaroMiranda/lunar-stack/releases/latest"><img src="https://img.shields.io/badge/Baixar%20APK-2EA44F?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK"/></a>
-      </p>
-      <br/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <h3>🌙 LunarStitch</h3>
-      <p><i>Mosaicos da Lua e panoramas no aparelho</i></p>
-      <p align="left">
-        Junta fotos sobrepostas — regiões ampliadas do disco lunar ou uma
-        paisagem — num <b>mosaico grande e nítido</b> estilo Microsoft ICE:
-        engine C++/OpenCV via FFI, costura por graph-cut e saída até 16 bits.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-        <img src="https://img.shields.io/badge/C%2B%2B%2FOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="C++/OpenCV"/>
-      </p>
-      <p>
-        <a href="https://github.com/AmaroMiranda/lunar-stitch"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
-        <a href="https://github.com/AmaroMiranda/lunar-stitch/releases/latest"><img src="https://img.shields.io/badge/Baixar%20APK-2EA44F?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK"/></a>
-      </p>
-      <br/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <h3>🎲 Pokédex Flutter</h3>
-      <p><i>Gotta fetch 'em all</i></p>
-      <p>App mobile para explorar a lista completa de Pokémons, com fichas detalhadas e navegação fluida.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-      </p>
-      <p>
-        <a href="https://github.com/AmaroMiranda/pokedex-app-flutter"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
-      </p>
-      <br/>
-    </td>
-  </tr>
-</table>
+<!-- Coluna única e centralizada: empilha bem em qualquer largura (desktop e
+     GitHub mobile), sem tabela de larguras fixas que espreme no celular. -->
+
+<h3 align="center">⚽ Cartola Libertadores</h3>
+<p align="center"><i>Produto web ao vivo, com usuários reais</i></p>
+<p align="center">
+  Plataforma completa de fantasy game do <b>Cartola FC</b> no formato da
+  Libertadores: fase de grupos, mata-mata e dados em tempo real — do front
+  React à API e banco em produção.
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+<p align="center">
+  <a href="https://libertadores1.cartolaam.com.br"><img src="https://img.shields.io/badge/Acessar%20ao%20vivo-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar ao vivo"/></a>
+</p>
+
+<br/>
+
+<h3 align="center">✈️ AstroTransit</h3>
+<p align="center"><i>Aviões cruzando o Sol e a Lua, previstos para o seu céu</i></p>
+<p align="center">
+  Prevê o instante em que um avião passa na frente do <b>Sol</b> ou da <b>Lua</b>:
+  efeméride JPL (Skyfield), aeronaves ao vivo e mapa interativo. App Flutter +
+  <b>backend FastAPI</b> hospedado, sem coleta de dados.
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+<p align="center">
+  <a href="https://github.com/AmaroMiranda/astro-transit"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
+  <a href="https://github.com/AmaroMiranda/astro-transit/releases/latest"><img src="https://img.shields.io/badge/Baixar%20APK-2EA44F?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK"/></a>
+</p>
+
+<br/>
+
+<h3 align="center">🔭 CollimaScope</h3>
+<p align="center"><i>App Android open source publicado</i></p>
+<p align="center">
+  Assistente visual de colimação de telescópios com a câmera do celular:
+  <b>fluxo guiado em 7 etapas</b>, geometria de precisão, modo noturno e
+  histórico de sessões — arquitetura em camadas com Riverpod.
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Material%203-1F6FEB?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3"/>
+</p>
+<p align="center">
+  <a href="https://github.com/AmaroMiranda/collima_scope"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
+  <a href="https://github.com/AmaroMiranda/collima_scope/releases/latest"><img src="https://img.shields.io/badge/Baixar%20APK-2EA44F?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK"/></a>
+</p>
+
+<br/>
+
+<h3 align="center">🌙 LunarStack</h3>
+<p align="center"><i>Processamento de imagem nativo no Android</i></p>
+<p align="center">
+  Estabiliza e <b>empilha os melhores frames</b> de um vídeo para gerar uma
+  foto nítida da Lua — pipeline C++/OpenCV via FFI, todo o processamento no
+  aparelho, sem nuvem.
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/C%2B%2B%2FOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="C++/OpenCV"/>
+</p>
+<p align="center">
+  <a href="https://github.com/AmaroMiranda/lunar-stack"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
+  <a href="https://github.com/AmaroMiranda/lunar-stack/releases/latest"><img src="https://img.shields.io/badge/Baixar%20APK-2EA44F?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK"/></a>
+</p>
+
+<br/>
+
+<h3 align="center">🌙 LunarStitch</h3>
+<p align="center"><i>Mosaicos da Lua e panoramas no aparelho</i></p>
+<p align="center">
+  Junta fotos sobrepostas — regiões ampliadas do disco lunar ou uma paisagem —
+  num <b>mosaico grande e nítido</b> estilo Microsoft ICE: engine C++/OpenCV via
+  FFI, costura por graph-cut e saída até 16 bits.
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/C%2B%2B%2FOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="C++/OpenCV"/>
+</p>
+<p align="center">
+  <a href="https://github.com/AmaroMiranda/lunar-stitch"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
+  <a href="https://github.com/AmaroMiranda/lunar-stitch/releases/latest"><img src="https://img.shields.io/badge/Baixar%20APK-2EA44F?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK"/></a>
+</p>
+
+<br/>
+
+<h3 align="center">🎲 Pokédex Flutter</h3>
+<p align="center"><i>Gotta fetch 'em all</i></p>
+<p align="center">
+  App mobile para explorar a lista completa de Pokémons, com fichas detalhadas
+  e navegação fluida.
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+</p>
+<p align="center">
+  <a href="https://github.com/AmaroMiranda/pokedex-app-flutter"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
+</p>
 
 <details>
   <summary><b>📦 Ver outros projetos</b></summary>
