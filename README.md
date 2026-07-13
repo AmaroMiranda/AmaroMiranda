@@ -125,12 +125,12 @@ final amaro = Dev(
 
 <br/>
 
-<h3 align="center">🌙 LunarStitch</h3>
-<p align="center"><i>Mosaicos da Lua e panoramas no aparelho</i></p>
+<h3 align="center">🌗 AstroStitch</h3>
+<p align="center"><i>Mosaicos da Lua, do Sol e panoramas no aparelho</i></p>
 <p align="center">
-  Junta fotos sobrepostas — regiões ampliadas do disco lunar ou uma paisagem —
-  num <b>mosaico grande e nítido</b> estilo Microsoft ICE: engine C++/OpenCV via
-  FFI, costura por graph-cut e saída até 16 bits.
+  Junta fotos sobrepostas — regiões ampliadas do disco lunar, o disco solar
+  ou uma paisagem — num <b>mosaico grande e nítido</b> estilo Microsoft ICE:
+  engine C++/OpenCV via FFI, costura por graph-cut e saída até 16 bits.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -138,8 +138,8 @@ final amaro = Dev(
   <img src="https://img.shields.io/badge/C%2B%2B%2FOpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="C++/OpenCV"/>
 </p>
 <p align="center">
-  <a href="https://github.com/AmaroMiranda/lunar-stitch"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
-  <a href="https://github.com/AmaroMiranda/lunar-stitch/releases/latest"><img src="https://img.shields.io/badge/Baixar%20APK-2EA44F?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK"/></a>
+  <a href="https://github.com/AmaroMiranda/astro-stitch"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a>
+  <a href="https://github.com/AmaroMiranda/astro-stitch/releases/latest"><img src="https://img.shields.io/badge/Baixar%20APK-2EA44F?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK"/></a>
 </p>
 
 <br/>
